@@ -1,0 +1,75 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: sans-serif;
+}
+header{
+  text-align: center;
+  background: white;
+  padding: 30px 20px;
+}
+header h1{
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.hero-box img{
+  width: 100%;
+}
+.one{
+  text-align: center;
+  background: white;
+  padding: 30px 20px;
+}
+.one h2{
+  font-size: 36px;
+padding-bottom: 20px;
+}
+.two{
+  text-align: center;
+  background: black;
+  padding: 30px 20px;
+  color: white;
+}
+.two h2{
+  font-size: 36px;
+padding-bottom: 20px;
+}
+.two p{
+  padding: 20px;
+}
+.three img{
+  width: 100%;
+}
+aside{
+  text-align: center;
+  background: white;
+  padding: 30px 20px;
+}
+aside h2{
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+aside h3{
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+aside .button{
+  background: black;
+  padding: 20px 50px;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+}
+footer{
+  text-align: center;
+  background: black;
+  color: white;
+  padding: 10px;
+}
